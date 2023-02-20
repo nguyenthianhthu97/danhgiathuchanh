@@ -1,0 +1,12 @@
+input[type=Submit]
+{
+    color: aliceblue;
+    background-color: blue;
+}
+#Username{
+    width: 100px;
+    padding: 10px 10px 9px 10px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+}
+

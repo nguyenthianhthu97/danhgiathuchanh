@@ -1,0 +1,15 @@
+#login{
+    color:aliceblue;
+    background-color: pink;
+}
+
+input[type=text][type=password]{
+     width: 50%;
+    padding: 8px 10px 9px 8px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+}
+p{
+    color:red;
+
+}
